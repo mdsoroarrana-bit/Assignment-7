@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Ayesha Rahman",
+    "picture": "https://randomuser.me/api/portraits/women/45.jpg",
+    "email": "ayesha.rahman@gmail.com",
+    "days_since_contact": 18,
+    "status": "overdue",
+    "tags": ["university", "close friend"],
+    "bio": "We studied Computer Science together at Rajshahi University. She now works as a software engineer in Dhaka.",
+    "goal": 14,
+    "next_due_date": "2026-04-10"
+  },
+  {
+    "id": 2,
+    "name": "Tanvir Hasan",
+    "picture": "https://randomuser.me/api/portraits/men/32.jpg",
+    "email": "tanvir.hasan@yahoo.com",
+    "days_since_contact": 10,
+    "status": "almost due",
+    "tags": ["school", "cricket buddy"],
+    "bio": "Played cricket together during school days. Still meets occasionally for weekend matches.",
+    "goal": 14,
+    "next_due_date": "2026-04-19"
+  },
+  {
+    "id": 3,
+    "name": "Nusrat Jahan",
+    "picture": "https://randomuser.me/api/portraits/women/68.jpg",
+    "email": "nusrat.jahan@gmail.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["colleague", "design team"],
+    "bio": "Works with me on UI/UX projects. Very creative and always shares helpful design feedback.",
+    "goal": 10,
+    "next_due_date": "2026-04-20"
+  },
+  {
+    "id": 4,
+    "name": "Rakib Ahmed",
+    "picture": "https://randomuser.me/api/portraits/men/75.jpg",
+    "email": "rakib.ahmed@gmail.com",
+    "days_since_contact": 25,
+    "status": "overdue",
+    "tags": ["neighbor", "childhood"],
+    "bio": "Grew up in the same neighborhood. Used to play football together every evening.",
+    "goal": 15,
+    "next_due_date": "2026-04-05"
+  },
+  {
+    "id": 5,
+    "name": "Farhana Sultana",
+    "picture": "https://randomuser.me/api/portraits/women/12.jpg",
+    "email": "farhana.sultana@gmail.com",
+    "days_since_contact": 13,
+    "status": "almost due",
+    "tags": ["family friend", "mentor"],
+    "bio": "Family friend who has guided me in career decisions. Works as a senior HR manager.",
+    "goal": 14,
+    "next_due_date": "2026-04-16"
+  },
+  {
+    "id": 6,
+    "name": "Mehedi Hasan",
+    "picture": "https://randomuser.me/api/portraits/men/28.jpg",
+    "email": "mehedi.hasan@gmail.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["gym", "fitness"],
+    "bio": "Workout partner at the local gym. Keeps me motivated and consistent with fitness goals.",
+    "goal": 7,
+    "next_due_date": "2026-04-19"
+  },
+  {
+    "id": 7,
+    "name": "Sadia Karim",
+    "picture": "https://randomuser.me/api/portraits/women/21.jpg",
+    "email": "sadia.karim@gmail.com",
+    "days_since_contact": 20,
+    "status": "overdue",
+    "tags": ["freelance", "client"],
+    "bio": "Client from a freelance project. We collaborated on a website redesign last year.",
+    "goal": 14,
+    "next_due_date": "2026-04-08"
+  },
+  {
+    "id": 8,
+    "name": "Imran Chowdhury",
+    "picture": "https://randomuser.me/api/portraits/men/54.jpg",
+    "email": "imran.chowdhury@gmail.com",
+    "days_since_contact": 8,
+    "status": "on-track",
+    "tags": ["startup", "networking"],
+    "bio": "Met at a startup networking event. Runs a small tech startup focused on mobile apps.",
+    "goal": 12,
+    "next_due_date": "2026-04-21"
+  }
+]
