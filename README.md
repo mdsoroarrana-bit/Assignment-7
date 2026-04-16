@@ -1,16 +1,86 @@
-# React + Vite
+# 🧑‍🤝‍🧑 KinKeeper – Friend Relationship Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Description
 
-Currently, two official plugins are available:
+**KinKeeper** is a modern web application designed to help you maintain meaningful relationships. It allows users to track when they last contacted friends, set communication goals, and stay connected with the people who matter most.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Whether it's a close friend, colleague, or family connection, KinKeeper ensures you never forget to reach out.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Technologies Used
 
-## Expanding the ESLint configuration
+* ⚛️ React.js
+* 🎨 Tailwind CSS
+* 🧠 JavaScript (ES6+)
+* 🌐 HTML5
+* 📦 JSON (Mock Data)
+* 🔀 React Router
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+* 👥 Display a list of friends with detailed profiles
+* 📸 Profile picture, email, and personal bio
+* ⏱️ Track **days since last contact**
+* 🚦 Smart status indicators:
+
+  * 🔴 Overdue
+  * 🟡 Almost Due
+  * 🟢 On-Track
+* 🎯 Set personalized contact goals (in days)
+* 📅 View upcoming contact deadlines
+* 🏷️ Organize friends with tags (e.g., college, work, gym)
+* 📱 Fully responsive modern UI
+
+
+---
+
+## 🛠️ Installation & Setup
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/kinkeeper.git
+```
+
+2. Navigate into the project:
+
+```bash
+cd kinkeeper
+```
+
+3. Install dependencies:
+
+```bash
+npm install
+```
+
+4. Run the app:
+
+```bash
+npm run dev
+```
+
+---
+
+## 🎯 Future Improvements
+
+* 🔔 Smart notifications & reminders
+* 🔍 Search and filter functionality
+* ☁️ Backend integration (Firebase / Node.js)
+* 🔐 Authentication system (login/signup)
+
+---
+
+## 🙌 Author
+
+**Your Name**
+Frontend Developer | Passionate about building user-friendly apps
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.

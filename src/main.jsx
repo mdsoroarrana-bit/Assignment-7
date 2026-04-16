@@ -7,6 +7,7 @@ import Timeline from './compontis/page/Timeline.jsx';
 import Stats from './compontis/page/Stats.jsx';
 import MainLayout from './compontis/Layout/MainLayout.jsx';
 import Errorpage from './compontis/errorpage/Errorpage.jsx';
+import FriendDetails from './compontis/FriendDetails/FriendDetails.jsx';
 
 export const router = createBrowserRouter([
   {
@@ -25,7 +26,11 @@ export const router = createBrowserRouter([
         path: "stats",
         element: <Stats></Stats>,
       },
-      
+      {
+        path: "/frienddetails/:Id",
+        Component: <FriendDetails/>,
+        loader: () => fetch("/friend-data.json")
+      }
     ],
     ErrorAliment : <Errorpage></Errorpage>
   },

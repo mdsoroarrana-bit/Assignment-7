@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Ayesha Rahman",
-    "picture": "https://randomuser.me/api/portraits/women/45.jpg",
+    "picture": "https://i.ibb.co.com/NdH3Ftmm/Ellipse-1-3.png",
     "email": "ayesha.rahman@gmail.com",
     "days_since_contact": 18,
     "status": "overdue",
@@ -14,7 +14,7 @@
   {
     "id": 2,
     "name": "Tanvir Hasan",
-    "picture": "https://randomuser.me/api/portraits/men/32.jpg",
+    "picture": "https://i.ibb.co.com/XZT0WX3Z/Ellipse-1-2.png",
     "email": "tanvir.hasan@yahoo.com",
     "days_since_contact": 10,
     "status": "almost due",
@@ -26,7 +26,7 @@
   {
     "id": 3,
     "name": "Nusrat Jahan",
-    "picture": "https://randomuser.me/api/portraits/women/68.jpg",
+    "picture": "https://i.ibb.co.com/kgygvLDs/Ellipse-1-1.png",
     "email": "nusrat.jahan@gmail.com",
     "days_since_contact": 5,
     "status": "on-track",
@@ -38,7 +38,7 @@
   {
     "id": 4,
     "name": "Rakib Ahmed",
-    "picture": "https://randomuser.me/api/portraits/men/75.jpg",
+    "picture": "https://i.ibb.co.com/HDvtQh3k/Ellipse-1.png",
     "email": "rakib.ahmed@gmail.com",
     "days_since_contact": 25,
     "status": "overdue",
@@ -50,7 +50,7 @@
   {
     "id": 5,
     "name": "Farhana Sultana",
-    "picture": "https://randomuser.me/api/portraits/women/12.jpg",
+    "picture": "https://i.ibb.co.com/HDvtQh3k/Ellipse-1.png",
     "email": "farhana.sultana@gmail.com",
     "days_since_contact": 13,
     "status": "almost due",
@@ -62,7 +62,7 @@
   {
     "id": 6,
     "name": "Mehedi Hasan",
-    "picture": "https://randomuser.me/api/portraits/men/28.jpg",
+    "picture": "https://i.ibb.co.com/kgygvLDs/Ellipse-1-1.png",
     "email": "mehedi.hasan@gmail.com",
     "days_since_contact": 3,
     "status": "on-track",
@@ -74,7 +74,7 @@
   {
     "id": 7,
     "name": "Sadia Karim",
-    "picture": "https://randomuser.me/api/portraits/women/21.jpg",
+    "picture": "https://i.ibb.co.com/XZT0WX3Z/Ellipse-1-2.png",
     "email": "sadia.karim@gmail.com",
     "days_since_contact": 20,
     "status": "overdue",
@@ -86,7 +86,7 @@
   {
     "id": 8,
     "name": "Imran Chowdhury",
-    "picture": "https://randomuser.me/api/portraits/men/54.jpg",
+    "picture": "https://i.ibb.co.com/NdH3Ftmm/Ellipse-1-3.png",
     "email": "imran.chowdhury@gmail.com",
     "days_since_contact": 8,
     "status": "on-track",
