@@ -1,13 +1,14 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
-import { createBrowserRouter, RouterProvider } from 'react-router';
+import { createBrowserRouter} from 'react-router';
 import Homepage from './compontis/page/Homepage.jsx';
 import Timeline from './compontis/page/Timeline.jsx';
 import Stats from './compontis/page/Stats.jsx';
 import MainLayout from './compontis/Layout/MainLayout.jsx';
 import Errorpage from './compontis/errorpage/Errorpage.jsx';
 import FriendDetails from './compontis/FriendDetails/FriendDetails.jsx';
+import { RouterProvider } from 'react-router/dom';
 
 export const router = createBrowserRouter([
   {
@@ -27,7 +28,7 @@ export const router = createBrowserRouter([
         element: <Stats></Stats>,
       },
       {
-        path: "/frienddetails/:Id",
+        path: "frienddetails/:id",
         Component: <FriendDetails/>,
         loader: () => fetch("/friend-data.json")
       }
@@ -39,8 +40,6 @@ export const router = createBrowserRouter([
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-
      <RouterProvider router={router} />,
-    
   </StrictMode>,
 )

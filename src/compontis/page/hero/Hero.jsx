@@ -12,7 +12,7 @@ const Hero = () => {
             
             <div className="grid sm:grid-cols-1 md:grid-cols-4 w-[80%] mx-auto gap-6">
                 <div className="w-40 h-30 bg-gray-100 text-center p-6">
-                    <p className="font-bold text-2xl">10</p>
+                    <p className="font-bold text-2xl">8</p>
                     <p className="text-[#64748B]">Total Friend</p>
                 </div>
                 <div className=" w-40 h-30 bg-gray-100 text-center p-6">
