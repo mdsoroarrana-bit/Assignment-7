@@ -32,7 +32,7 @@ export const router = createBrowserRouter([
         loader: () => fetch("/friend-data.json")
       }
     ],
-    ErrorAliment : <Errorpage></Errorpage>
+    errorElement: <Errorpage/>
   },
   
 ]);

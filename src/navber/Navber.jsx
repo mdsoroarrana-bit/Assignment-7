@@ -29,7 +29,8 @@ const Navber = () => {
                {Links}
               </ul>
             </div>
-            <p className="text-2xl text-stone-700 font-bold ">Keen<span className="text-[#194536]">Keeper</span> </p>
+            <img src="/src/assets/logo.png" alt="logo" />
+            {/* <p className="text-2xl text-stone-700 font-bold ">Keen<span className="text-[#194536]">Keeper</span> </p> */}
           </div>
           
           <div className="navbar-end">
