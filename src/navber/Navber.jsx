@@ -29,7 +29,7 @@ const Navber = () => {
                {Links}
               </ul>
             </div>
-            <img src="/src/assets/logo.png" alt="logo" />
+            <img src="https://i.ibb.co.com/0ywWtB32/logo.png" alt="logo" />
             {/* <p className="text-2xl text-stone-700 font-bold ">Keen<span className="text-[#194536]">Keeper</span> </p> */}
           </div>
           
